@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE resources PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Resource Definitions//EN" "http://glassfish.org/dtds/glassfish-resources_1_5.dtd">
 <resources>
-  <jdbc-resource enabled="true" jndi-name="jdbc/bookstore" object-type="user" pool-name="bookstore">
+  <jdbc-resource enabled="true" jndi-name="java:app/jdbc/bookstore" object-type="user" pool-name="bookstore">
     <description/>
   </jdbc-resource>
   <jdbc-connection-pool allow-non-component-callers="false" 

@@ -1,0 +1,14 @@
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\ClientsJpaController.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\InventoryJpaController.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\Reviews.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\InvoicesJpaController.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\Inventory.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\exceptions\NonexistentEntityException.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\Details.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\DetailsJpaController.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\exceptions\PreexistingEntityException.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\Clients.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\exceptions\RollbackFailureException.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\Invoices.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\ReviewsJpaController.java
+C:\Users\Marc\Documents\NetBeansProjects\bookStore\src\main\java\com\mycompany\bookstore\entities\exceptions\IllegalOrphanException.java

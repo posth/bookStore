@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.bookstore.entities.ClientsJpaControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.049 sec <<< FAILURE! - in com.mycompany.bookstore.entities.ClientsJpaControllerTest
+com.mycompany.bookstore.entities.ClientsJpaControllerTest  Time elapsed: 3.048 sec  <<< ERROR!
+java.lang.RuntimeException: Could not invoke deployment method: public static org.jboss.shrinkwrap.api.spec.WebArchive com.mycompany.bookstore.entities.ClientsJpaControllerTest.deploy()
+	at org.jboss.shrinkwrap.impl.base.Validate.notNull(Validate.java:43)
+	at org.jboss.shrinkwrap.impl.base.container.ContainerBase.fileFromResource(ContainerBase.java:1966)
+	at org.jboss.shrinkwrap.impl.base.container.ContainerBase.addAsResource(ContainerBase.java:1032)
+	at org.jboss.shrinkwrap.impl.base.container.ContainerBase.addAsResource(ContainerBase.java:1008)
+	at com.mycompany.bookstore.entities.ClientsJpaControllerTest.deploy(ClientsJpaControllerTest.java:65)
+

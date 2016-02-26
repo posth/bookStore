@@ -1,0 +1,14 @@
+com\mycompany\bookstore\entities\Invoices.class
+com\mycompany\bookstore\entities\exceptions\NonexistentEntityException.class
+com\mycompany\bookstore\entities\ReviewsJpaController.class
+com\mycompany\bookstore\entities\Reviews.class
+com\mycompany\bookstore\entities\Inventory.class
+com\mycompany\bookstore\entities\Clients.class
+com\mycompany\bookstore\entities\InvoicesJpaController.class
+com\mycompany\bookstore\entities\exceptions\PreexistingEntityException.class
+com\mycompany\bookstore\entities\exceptions\RollbackFailureException.class
+com\mycompany\bookstore\entities\DetailsJpaController.class
+com\mycompany\bookstore\entities\Details.class
+com\mycompany\bookstore\entities\exceptions\IllegalOrphanException.class
+com\mycompany\bookstore\entities\ClientsJpaController.class
+com\mycompany\bookstore\entities\InventoryJpaController.class
